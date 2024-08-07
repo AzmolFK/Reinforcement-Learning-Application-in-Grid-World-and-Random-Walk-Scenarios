@@ -26,7 +26,6 @@ The agent starts at the center of the grid and is equally likely to move up, dow
 
 ## Project Structure
 
-- `LICENSE`: License for the project.
 - `README.md`: This file.
 - `R_L_A3.ipynb`: Jupyter notebook containing the implementation of the assignment.
 - `Reinforcement Learning Assignment 3.pdf`: The original assignment description.
